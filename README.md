@@ -26,9 +26,7 @@ I'm currently focusing on enhancing my skills in Full Stack Web Development. I'm
 
 Feel free to reach out to me:
 
-- LinkedIn: www.linkedin.com/in/
-selva-raj-001322241
-
+- LinkedIn: https://www.linkedin.com/in/selva-raj-001322241
 - GitHub: https://github.com/T-selva-raj
 - Email: selvarajpersonal24@gmail.com
 
