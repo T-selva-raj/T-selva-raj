@@ -21,7 +21,12 @@ I'm currently focusing on enhancing my skills in Full Stack Web Development. I'm
 - Simple portfolio website
   - A personal portfolio website created using Bootstrap, showcasing my skills, experiences, and projects. It offers a clean, responsive design, showcasing my educational background, professional experience, and proficiency in HTML, CSS, and JavaScript.
 
+- Portfolio website:
+    - I designed a simple personal portfolio website using simple Html and bootstrap.Here i gained some knowledge about responsiveness add how to use bootstrap in web sites And this is my first html&bootstap project.
 
+- Authentication practice :
+    - I worked out how the passport authentication works and how to use JsonWebtokens while developing a server and I also learnt about how to secure the passwords using hashing.
+      Then I also leart about encryption and decryption in server side.Here i used AES algorthm for the encryption.
 ## Contact
 
 Feel free to reach out to me:
