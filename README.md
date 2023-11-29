@@ -2,6 +2,7 @@
 # About Me
 
 Hello! 👋 I'm Selvaraj, a passionate Node js Developer . I hold a Bachelor's degree in Computer Science and Engineering.
+![OpenAI Logo](https://example.com/openai_logo.png)
 
 ## My Skills
 
