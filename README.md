@@ -4,7 +4,7 @@
 Hello! 👋 I'm Selvaraj, a passionate Node js Developer . I hold a Bachelor's degree in Computer Science and Engineering.
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D5603AQHYjRmiPfx49Q/profile-displayphoto-shrink_800_800/0/1688702101731?e=1706745600&v=beta&t=-ltzBL6Uz7YVQ6K6xDIW5wV53DVpCtGMbTgp_zoFQ84" alt="OpenAI Logo" width="200" height="200" style="border-radius:50%;">
+  <img src="https://media.licdn.com/dms/image/D5603AQHYjRmiPfx49Q/profile-displayphoto-shrink_800_800/0/1688702101731?e=1706745600&v=beta&t=-ltzBL6Uz7YVQ6K6xDIW5wV53DVpCtGMbTgp_zoFQ84" alt="Profile" width="300" height="300">
 </p>
 
 
