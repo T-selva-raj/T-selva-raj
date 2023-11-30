@@ -35,7 +35,7 @@ I'm currently focusing on enhancing my skills in Full Stack Web Development. I'm
 	- I designed a simple weather app to find the weather conditions among cities. Here, I used Open Weather API to find the weather using the city name. While using the API, I got some knowledge of the Fetch method in JS and Promises.
 	
 - Birth Day Counter :
-	-I designed a simple birthday counter app that displays how many days are left until my birthday today.
+	- I designed a simple birthday counter app that displays how many days are left until my birthday today.
 	
 ## Contact
 
