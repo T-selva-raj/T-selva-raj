@@ -96,6 +96,3 @@ I'm always happy to talk about web development, new opportunities, or interestin
 - 💼 LinkedIn: [selva-raj-t-001322241](https://www.linkedin.com/in/selva-raj-t-001322241)
 - 📧 Email: [selvarajpersonal24@gmail.com](mailto:selvarajpersonal24@gmail.com)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=T-selva-raj&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
