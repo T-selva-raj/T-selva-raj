@@ -96,18 +96,6 @@ A full-stack platform that streamlines tournament operations:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=T-selva-raj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-selva-raj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=T-selva-raj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 ## 🌱 Currently
 
