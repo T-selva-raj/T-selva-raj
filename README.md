@@ -81,22 +81,6 @@ I'm a Full Stack Developer with **3.5+ years** of experience turning business pr
 
 ---
 
-## 🚀 Featured Project
-
-### 🏉 Kabaddi Tournament Management Application
-**Node.js • PostgreSQL • Angular 18**
-
-A full-stack platform that streamlines tournament operations:
-
-- Team registration with admin approval workflows
-- Automated fixture generation
-- Real-time score management
-- WhatsApp live-score alerts
-- Role-based access for Admin and Team roles
-
----
-
-
 ## 🌱 Currently
 
 - 🔭 Working on enterprise modules with **Angular 18 + Node.js + PostgreSQL**
